@@ -1,6 +1,6 @@
 package br.com.caelum.agiletickets;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
@@ -10,5 +10,6 @@ public class FirstTest {
 	public void hello() {
 		assertTrue(true);
 	}
+	
 	
 }
